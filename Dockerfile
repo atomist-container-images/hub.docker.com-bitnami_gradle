@@ -1,12 +1,15 @@
-# Tags: latest, 7.4.1-debian-10-r20, 7.4.1, 7-debian-10, 7
+# Tags: latest, 7.4.1-debian-10-r21, 7.4.1, 7-debian-10, 7
 FROM bitnami/gradle:latest
-FROM bitnami/gradle:7.4.1-debian-10-r20
+FROM bitnami/gradle:7.4.1-debian-10-r21
 FROM bitnami/gradle:7.4.1
 FROM bitnami/gradle:7-debian-10
 FROM bitnami/gradle:7
 
 # Tags: _
 FROM bitnami/gradle:_
+
+# Tags: 7.4.1-debian-10-r20
+FROM bitnami/gradle:7.4.1-debian-10-r20
 
 # Tags: 7.4.1-debian-10-r19
 FROM bitnami/gradle:7.4.1-debian-10-r19
@@ -92,6 +95,3 @@ FROM bitnami/gradle:7.4.0-debian-10-r20
 
 # Tags: 7.4.0-debian-10-r19
 FROM bitnami/gradle:7.4.0-debian-10-r19
-
-# Tags: 7.4.0-debian-10-r18
-FROM bitnami/gradle:7.4.0-debian-10-r18
