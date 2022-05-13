@@ -1,12 +1,42 @@
-# Tags: latest, 7.4.2-debian-10-r31, 7.4.2, 7-debian-10, 7
+# Tags: latest, 7.4.2-debian-10-r41, 7.4.2, 7-debian-10, 7
 FROM bitnami/gradle:latest
-FROM bitnami/gradle:7.4.2-debian-10-r31
+FROM bitnami/gradle:7.4.2-debian-10-r41
 FROM bitnami/gradle:7.4.2
 FROM bitnami/gradle:7-debian-10
 FROM bitnami/gradle:7
 
 # Tags: _
 FROM bitnami/gradle:_
+
+# Tags: 7.4.2-debian-10-r40
+FROM bitnami/gradle:7.4.2-debian-10-r40
+
+# Tags: 7.4.2-debian-10-r39
+FROM bitnami/gradle:7.4.2-debian-10-r39
+
+# Tags: 7.4.2-debian-10-r38
+FROM bitnami/gradle:7.4.2-debian-10-r38
+
+# Tags: 7.4.2-debian-10-r37
+FROM bitnami/gradle:7.4.2-debian-10-r37
+
+# Tags: 7.4.2-debian-10-r36
+FROM bitnami/gradle:7.4.2-debian-10-r36
+
+# Tags: 7.4.2-debian-10-r35
+FROM bitnami/gradle:7.4.2-debian-10-r35
+
+# Tags: 7.4.2-debian-10-r34
+FROM bitnami/gradle:7.4.2-debian-10-r34
+
+# Tags: 7.4.2-debian-10-r33
+FROM bitnami/gradle:7.4.2-debian-10-r33
+
+# Tags: 7.4.2-debian-10-r32
+FROM bitnami/gradle:7.4.2-debian-10-r32
+
+# Tags: 7.4.2-debian-10-r31
+FROM bitnami/gradle:7.4.2-debian-10-r31
 
 # Tags: 7.4.2-debian-10-r30
 FROM bitnami/gradle:7.4.2-debian-10-r30
@@ -61,36 +91,3 @@ FROM bitnami/gradle:7.4.2-debian-10-r14
 
 # Tags: 7.4.2-debian-10-r13
 FROM bitnami/gradle:7.4.2-debian-10-r13
-
-# Tags: 7.4.2-debian-10-r12
-FROM bitnami/gradle:7.4.2-debian-10-r12
-
-# Tags: 7.4.2-debian-10-r11
-FROM bitnami/gradle:7.4.2-debian-10-r11
-
-# Tags: 7.4.2-debian-10-r10
-FROM bitnami/gradle:7.4.2-debian-10-r10
-
-# Tags: 7.4.2-debian-10-r9
-FROM bitnami/gradle:7.4.2-debian-10-r9
-
-# Tags: 7.4.2-debian-10-r8
-FROM bitnami/gradle:7.4.2-debian-10-r8
-
-# Tags: 7.4.2-debian-10-r7
-FROM bitnami/gradle:7.4.2-debian-10-r7
-
-# Tags: 7.4.2-debian-10-r6
-FROM bitnami/gradle:7.4.2-debian-10-r6
-
-# Tags: 7.4.2-debian-10-r5
-FROM bitnami/gradle:7.4.2-debian-10-r5
-
-# Tags: 7.4.2-debian-10-r4
-FROM bitnami/gradle:7.4.2-debian-10-r4
-
-# Tags: 7.4.2-debian-10-r3
-FROM bitnami/gradle:7.4.2-debian-10-r3
-
-# Tags: 7.4.2-debian-10-r2
-FROM bitnami/gradle:7.4.2-debian-10-r2
